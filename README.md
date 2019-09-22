@@ -1,1 +1,1 @@
-[http://zotovsv.github.io/rsschool-cv](http://zotovsv.github.io/rsschool-cv)
+[https://zotovsv.github.io/rsschool-cv/cv](https://zotovsv.github.io/rsschool-cv/cv)
