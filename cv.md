@@ -1,5 +1,5 @@
 # RESUME
-1. Zotov Sergei
+1. Zotov Sergei, age 29.
 2. Contacts:
   1. phone: +79538280088
   2. mail: zsv.main@gmail.com
