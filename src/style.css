@@ -55,8 +55,11 @@ body {
 }
 .mainer, .header {
     width: 1024px;
-	background-color: aqua;
-	margin: 0 auto;
+	background-color: rgb(236, 236, 236);
+	margin: 0 auto;		
+}
+.mainer {
+	border: 0.5px solid grey;
 }
 h4 {
 	margin-block-end: 10px;
