@@ -1,4 +1,4 @@
-# RESUME
+# SUMMARY
 1. Zotov Sergei, age 29.
 2. Contacts:
    - **phone**: +79538280088
