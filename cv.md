@@ -14,3 +14,11 @@
 6. Experience:
    - Development of new functionality within the organization for a CRM product in C # and Javascript, knowledge of HTML and CSS was also used.
 Work with git, svn while performing tasks on working at a basic level.
+   - Parsing xml files in the JAVA language to get the correct data for sending them to the pension fund.
+7. Education: 
+   - Codecademy (HTML,CSS) 
+   - Htmlacademy (HTML, CSS)
+   - Self-Education (C#,Java)
+   - RSSchool Lectures (JavaScript,CSS,HTML)
+8. English level - elementary
+Reading technical documentation with a dictionary
