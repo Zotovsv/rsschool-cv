@@ -5,9 +5,9 @@
   2. mail: zsv.main@gmail.com
 3. 
 4. Skiils:
-   1. HTML (Elementary)
-   2. CSS (Elementary)
-   3. Javascript (Elementaty)
-   4. Java (Elementary)
-   5. C# (Elementary)
+   - HTML (Elementary)
+   - CSS (Elementary)
+   - Javascript (Elementaty)
+   - Java (Elementary)
+   - C# (Elementary)
 5. 
