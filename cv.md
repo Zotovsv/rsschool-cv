@@ -3,7 +3,7 @@
 2. Contacts:
   1. phone: +79538280088
   2. mail: zsv.main@gmail.com
-3. 
+3. Gaining new experience in website development, improve programming skills in javascript, css, html.
 4. Skiils:
    - HTML (Elementary)
    - CSS (Elementary)
