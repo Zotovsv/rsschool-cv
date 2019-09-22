@@ -1,2 +1,1 @@
-# rsschool-cv
-Studying at rsschool: Resume
+[http://zotovsv.github.io/rsschool-cv](http://zotovsv.github.io/rsschool-cv)
