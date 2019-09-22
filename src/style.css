@@ -61,3 +61,6 @@ body {
 h4 {
 	margin-block-end: 10px;
 }
+.avatar {
+	border-radius: 50%;
+}
