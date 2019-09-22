@@ -10,4 +10,7 @@
    - Javascript (Elementaty)
    - Java (Elementary)
    - C# (Elementary)
-5. 
+5. Code examples
+6. Experience:
+   - Development of new functionality within the organization for a CRM product in C # and Javascript, knowledge of HTML and CSS was also used.
+Work with git, svn while performing tasks on working at a basic level.
