@@ -1,8 +1,8 @@
 # RESUME
 1. Zotov Sergei, age 29.
 2. Contacts:
-  - phone: +79538280088
-  - mail: zsv.main@gmail.com
+   - phone: +79538280088
+   - mail: zsv.main@gmail.com
 3. Gaining new experience in website development, improve programming skills in javascript, css, html.
 4. Skiils:
    - HTML (Elementary)
